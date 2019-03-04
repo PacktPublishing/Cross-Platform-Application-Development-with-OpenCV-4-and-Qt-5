@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file alias="home">home.qml</file>
+        <file alias="showImage">showImage.qml</file>
+        <file alias="showVideo">showVideo.qml</file>
+        <file alias="logo">opencv-logo.png</file>
+    </qresource>
+</RCC>
